@@ -1,0 +1,20 @@
+[
+  {
+    "student_id": "22RP10044",
+    "full_name": "Niyomizero vincent",
+    "department": "ICT",
+    "level": 4,
+    "email": "vincentshm200@gmail.com",
+    "status": "active",
+    "id": "1749651253944"
+  },
+  {
+    "student_id": "22RP10042",
+    "full_name": "Niyomizero vincent",
+    "department": "Horticulture",
+    "level": 3,
+    "email": "vincentshm200@gmail.com",
+    "status": "active",
+    "id": "1749651493962"
+  }
+] 
